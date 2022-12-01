@@ -1,0 +1,17 @@
+{
+  "name": "blockchainjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1",
+    "node": "^19.2.0"
+  },
+  "devDependencies": {
+    "jsdoc": "^4.0.0"
+  },
+  "scripts": {
+    "test": "node index.js",
+    "doc": "jsdoc -c jsdoc.json"
+  }
+}
